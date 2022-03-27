@@ -15,7 +15,7 @@ import Daleks_Vue
 class Jeu():
     def __init__(self):
         self.partiecourante = None
-        self.largeur = 8
+        self.largeur = 9
         self.hauteur = 6
 
     def demarrer_partie(self):
